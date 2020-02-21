@@ -1,4 +1,4 @@
 # disp_audio
-Display audio input signal in python
+Real time display audio input signal 
 
 you will need wx sounddevice matplotlib numpy
